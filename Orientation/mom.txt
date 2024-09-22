@@ -1,0 +1,105 @@
+
+
+Date 21st Sept , 2024
+
+
+Orientation 
+
+Vikas Chaudhary 
+Btech IPU 2017 
+2- Sr Backend Engg (Java springboot)
+3- Edtech (cb cn pepcoding)
+Dice - Tech Lead 
+
+----------------------------------------------------------------
+
+Syllabus (Full Stack Web Dev)
+
+Q- Web Dev?
+
+Web Dev - website ?
+Tool/Software/Apps - web - Browser - Chrome 
+
+Web dev - FE + BE 
+
+FE - Client , Browser, UI-UX
+
+FE-Tech Stacks
+-HTML
+-CSS
+-JS 
+[CORE - VANILLA]
+
+Lib/Framework - React js , angular js , vuew js , next js 
+
+React js 
+Redux ( data communication flow)
+
+
+
+Q1-Why JS?
+pYTHON , JAVA , C , C++ , C#. .NET , PERL , RUBY 
+
+Backend - 
+
+Client - server Architecture 
+
+Client-Browser-Chrome
+Server - serve - remote computer - sara code dump
+
+
+Backend Syllabus
+Backend - java python js c# .net 
+
+js - core js 
+
+Lib/Framework
+
+Node js 
+Express js 
+
+Database -  sql and nosql
+
+sql MYSQL
+nosql - MongoDB 
+
+[MERN] + devops + aws + dsa (lc) + core cs subject (dbms ,os ,cn)
+
+
+-------------------------------------------------------
+
+Devops - Dev + Oper -- sdlc automate 
+
+
+
+
+
+
+
+DataBase - 
+
+
+
+
+----------------------------------------------
+
+
+Util/Software 
+
+code - [ide]
+
+vs code 
+
+setting 
+1- word wrap
+
+extensions - 
+
+
+
+
+
+
+
+
+

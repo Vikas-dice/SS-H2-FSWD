@@ -1,0 +1,23 @@
+
+
+Date 22nd sept , 2024
+
+Last Class - Basic intro html , semantics , client server architecture 
+
+-client server architecture/Request Response architecture
+
+HTML 
+1-Module 1 (Textual data)
+
+-Headings
+-paragraph
+-article
+-list
+-table
+-anchor
+-images
+
+--------------------------------
+
+form ***imp concept
+

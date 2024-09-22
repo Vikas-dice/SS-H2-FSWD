@@ -1,0 +1,12 @@
+HTML Day 0
+
+HTML ? Hypertext Markup Lang
+programming Lang ? NO 
+
+Markup Lang - text document - tags and annotation 
+
+tags - <vikas> <dice>
+
+human - head + body
+
+html - head + body
